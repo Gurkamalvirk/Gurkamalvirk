@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-<a href="https://random-r4kzgerq1-hellos-projects-37508dc6.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://random-inky-theta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/Gurkamalvirk"><img src="https://img.shields.io/badge/GitHub-Gurkamalvirk-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://github.com/Gurkamalvirk/Resume"><img src="https://img.shields.io/badge/Resume-View-0A66C2?style=for-the-badge&logo=readme&logoColor=white" /></a>
 </p>
