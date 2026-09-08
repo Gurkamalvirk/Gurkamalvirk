@@ -3,10 +3,10 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Gurkamal Singh</h1>
-<h3 align="center">💻 Computer Science Undergraduate • Building AI-Powered & Full-Stack Software</h3>
+<h3 align="center">💻 Computer Science Undergraduate • Building AI-Powered, Full-Stack & Desktop Software</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;AI+Enthusiast;React+%7C+Node.js+%7C+MongoDB;Java+%7C+C%2B%2B;Database+%26+Backend+Development;Problem+Solver;Always+Learning..." />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;AI+Enthusiast;C%23+%7C+.NET+%7C+WPF;React+%7C+Node.js+%7C+MongoDB;Java+%7C+C%2B%2B;Database+%26+Backend+Development;Problem+Solver;Always+Learning..." />
 </p>
 
 <p align="center">
@@ -19,9 +19,10 @@
 
 # 🚀 About Me
 
-I'm a **Computer Science undergraduate** who enjoys learning by building real applications across AI, web development, backend systems, databases, and Java.
+I'm a **Computer Science undergraduate** who enjoys learning by building real applications across AI, web development, Windows desktop software, backend systems, databases, and Java.
 
 - 🤖 Building and experimenting with **AI-powered full-stack applications**
+- 🖥️ Building **Windows desktop software with C#, .NET, and WPF**
 - 🌐 Working with **React, Node.js, Express, JavaScript, HTML, and CSS**
 - 🗄️ Experience with **MongoDB, MySQL, SQL, and database-oriented projects**
 - ☕ Building applications and practicing concepts in **Java**
@@ -36,12 +37,12 @@ I'm a **Computer Science undergraduate** who enjoys learning by building real ap
 # 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,cpp,js,react,nodejs,express,mongodb,mysql,html,css,git,github,linux,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=java,cpp,cs,dotnet,js,react,nodejs,express,mongodb,mysql,html,css,git,github,linux,vscode&perline=8" />
 </p>
 
 ---
 
-# ⭐ Featured Project
+# ⭐ Featured Projects
 
 ## 🤖 AI Powered Chat Bot — MERN
 
@@ -59,6 +60,23 @@ My primary portfolio project: a full-stack AI chat application built with produc
 - 🧪 Unit testing support with a mock AI provider
 
 ➡️ **[Explore AI Chat Bot](https://github.com/Gurkamalvirk/ai-chat-bot-trial-1)**
+
+## 📄 PDF Text Editor — Windows Desktop
+
+A local-first desktop application for directly editing visible text in PDF documents while keeping the original page layout intact.
+
+**Tech:** `C#` `.NET 8` `WPF` `PDFium` `PDFsharp`
+
+**Highlights:**
+- 📂 Open PDFs directly from disk or with drag-and-drop
+- ✏️ Select and edit visible PDF text directly on the page
+- 🔤 Preserve detected font family, size, bold, and italic styling where available
+- ↩️ Undo/redo, page navigation, and zoom controls
+- 💾 Safe **Save As** workflow that starts from the untouched source document
+- 🔒 Local-first processing with no browser or web server required
+- 🧩 Designed with an upgrade path for OCR and more advanced PDF editing
+
+➡️ **[Explore PDF Text Editor](https://github.com/Gurkamalvirk/PDF-editor-Desktop-application)**
 
 ---
 
@@ -97,6 +115,7 @@ My GitHub also contains coursework, experiments, and practice repositories that 
 | Area | Repositories |
 |---|---|
 | 🤖 AI | [ai-chat-bot-trial-1](https://github.com/Gurkamalvirk/ai-chat-bot-trial-1) |
+| 🖥️ Desktop | [PDF-editor-Desktop-application](https://github.com/Gurkamalvirk/PDF-editor-Desktop-application) |
 | ⚛️ React | [react-cart-project](https://github.com/Gurkamalvirk/react-cart-project) |
 | 🌐 Full Stack | [Full-Stack-Node.js](https://github.com/Gurkamalvirk/Full-Stack-Node.js) · [Full-stack-exp8](https://github.com/Gurkamalvirk/Full-stack-exp8) · [FS-EXP-9](https://github.com/Gurkamalvirk/FS-EXP-9) · [FS-9.1](https://github.com/Gurkamalvirk/FS-9.1) |
 | ☕ Java | [Java](https://github.com/Gurkamalvirk/Java) · [Java-7](https://github.com/Gurkamalvirk/Java-7) · [EXP8-JAVA](https://github.com/Gurkamalvirk/EXP8-JAVA) · [Java-exp-9](https://github.com/Gurkamalvirk/Java-exp-9) |
@@ -137,6 +156,7 @@ My GitHub also contains coursework, experiments, and practice repositories that 
 
 ```text
 🤖 Building AI-powered full-stack applications
+🖥️ Building Windows desktop software with C#/.NET/WPF
 🧠 Improving Data Structures & Algorithms in C++
 🏗️ Learning scalable backend architecture
 🌐 Strengthening React and Node.js development
@@ -147,6 +167,7 @@ My GitHub also contains coursework, experiments, and practice repositories that 
 ## 📚 Currently Learning
 
 - 🧩 Data Structures & Algorithms
+- 🖥️ C#, .NET & WPF desktop development
 - 🏗️ Backend Architecture & System Design Fundamentals
 - 🤖 Practical AI Integration
 - ⚛️ React & Full-Stack Application Development
