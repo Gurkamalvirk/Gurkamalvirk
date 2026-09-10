@@ -44,6 +44,14 @@ I'm a **Computer Science undergraduate** who enjoys learning by building real ap
 
 # ⭐ Featured Projects
 
+## 🩺 CarePath — AI Healthcare Assistant
+
+A full-stack healthcare platform for symptom analysis, doctor discovery, consultation booking, and health-focused AI assistance. It uses Gemini with a health-only response guard, MongoDB-backed user accounts, and secure private consultation storage.
+
+**Tech:** `Next.js` `React` `MongoDB` `Gemini API` `Vercel`
+
+➡️ **[Try CarePath Live](https://carepath-sage.vercel.app/)** · **[View Source Code](https://github.com/Gurkamalvirk/Carepath)**
+
 ## 🤖 AI Powered Chat Bot — MERN
 
 My primary portfolio project: a full-stack AI chat application built with production-oriented backend concepts rather than only a basic AI API wrapper.
@@ -114,7 +122,7 @@ My GitHub also contains coursework, experiments, and practice repositories that 
 
 | Area | Repositories |
 |---|---|
-| 🤖 AI | [ai-chat-bot-trial-1](https://github.com/Gurkamalvirk/ai-chat-bot-trial-1) |
+| 🤖 AI | [Carepath](https://github.com/Gurkamalvirk/Carepath) · [ai-chat-bot-trial-1](https://github.com/Gurkamalvirk/ai-chat-bot-trial-1) |
 | 🖥️ Desktop | [PDF-editor-Desktop-application](https://github.com/Gurkamalvirk/PDF-editor-Desktop-application) |
 | ⚛️ React | [react-cart-project](https://github.com/Gurkamalvirk/react-cart-project) |
 | 🌐 Full Stack | [Full-Stack-Node.js](https://github.com/Gurkamalvirk/Full-Stack-Node.js) · [Full-stack-exp8](https://github.com/Gurkamalvirk/Full-stack-exp8) · [FS-EXP-9](https://github.com/Gurkamalvirk/FS-EXP-9) · [FS-9.1](https://github.com/Gurkamalvirk/FS-9.1) |
